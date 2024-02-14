@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import drotg from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-drotg@esm/index.mjs';
+import drotg from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-drotg@v0.2.0-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { assign } from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-drotg@esm/index.mjs';
+import { assign } from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-drotg@v0.2.0-esm/index.mjs';
 ```
 
 #### drotg( a, b )
@@ -99,7 +99,7 @@ var bool = ( y === out );
 
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@esm/index.mjs';
-import drotg from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-drotg@esm/index.mjs';
+import drotg from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-drotg@v0.2.0-esm/index.mjs';
 
 var out;
 var i;
