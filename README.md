@@ -42,13 +42,18 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import drotg from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-drotg@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/blas-base-drotg/tags). For example,
+
+```javascript
 import drotg from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-drotg@v0.2.1-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { assign } from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-drotg@v0.2.1-deno/mod.js';
+import { assign } from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-drotg@deno/mod.js';
 ```
 
 #### drotg( a, b )
@@ -99,7 +104,7 @@ var bool = ( y === out );
 
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@deno/mod.js';
-import drotg from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-drotg@v0.2.1-deno/mod.js';
+import drotg from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-drotg@deno/mod.js';
 
 var out;
 var i;
