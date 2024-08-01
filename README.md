@@ -101,7 +101,7 @@ var bool = ( y === out );
 
 ## Notes
 
--   `drotg()` corresponds to the [BLAS][blas] level 1 function [`drotg`][blas-drotg].
+-   `drotg()` corresponds to the [BLAS][blas] level 1 function [`drotg`][drotg].
 
 </section>
 
@@ -208,7 +208,7 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 
 [blas]: http://www.netlib.org/blas
 
-[blas-drotg]: https://www.netlib.org/lapack/explore-html/d7/dc5/group__rotg_gaafa91c51f75df6c3f2182032a221c2db.html#gaafa91c51f75df6c3f2182032a221c2db
+[drotg]: https://netlib.org/lapack/explore-html/df/d28/group__single__blas__level1_gaafa91c51f75df6c3f2182032a221c2db.html
 
 </section>
 
