@@ -101,7 +101,7 @@ var bool = ( y === out );
 
 ## Notes
 
--   `drotg()` corresponds to the [BLAS][blas] level 1 function [`drotg`][drotg].
+-   `drotg()` corresponds to the [BLAS][blas] level 1 function [`drotg`][blas-drotg].
 
 </section>
 
@@ -173,8 +173,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/blas-base-drotg.svg
 [npm-url]: https://npmjs.org/package/@stdlib/blas-base-drotg
 
-[test-image]: https://github.com/stdlib-js/blas-base-drotg/actions/workflows/test.yml/badge.svg?branch=v0.2.2
-[test-url]: https://github.com/stdlib-js/blas-base-drotg/actions/workflows/test.yml?query=branch:v0.2.2
+[test-image]: https://github.com/stdlib-js/blas-base-drotg/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/blas-base-drotg/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/blas-base-drotg/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/blas-base-drotg?branch=main
@@ -208,7 +208,7 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 
 [blas]: http://www.netlib.org/blas
 
-[drotg]: https://netlib.org/lapack/explore-html/df/d28/group__single__blas__level1_gaafa91c51f75df6c3f2182032a221c2db.html
+[blas-drotg]: https://www.netlib.org/lapack/explore-html/d7/dc5/group__rotg_gaafa91c51f75df6c3f2182032a221c2db.html#gaafa91c51f75df6c3f2182032a221c2db
 
 </section>
 
