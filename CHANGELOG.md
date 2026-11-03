@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-11-02)
+## Unreleased (2026-11-03)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
 -   [`10a84e4`](https://github.com/stdlib-js/stdlib/commit/10a84e4c9eed0d45927561f7998027339061cae3) - **chore:** clean-up [(#15165)](https://github.com/stdlib-js/stdlib/pull/15165) _(by Philipp Burckhardt)_
 -   [`45ebb64`](https://github.com/stdlib-js/stdlib/commit/45ebb649778cb49d7b1ba95ead3ed544b575882b) - **test:** migrate `blas/base/drotg` to ULP-based assertions [(#15152)](https://github.com/stdlib-js/stdlib/pull/15152) _(by Philipp Burckhardt, Athan Reines)_
 -   [`83e225d`](https://github.com/stdlib-js/stdlib/commit/83e225d58fc0d4d8c71f8b475f1c95faa04d2e9a) - **docs:** add missing headings and add missing placeholder section [(#13063)](https://github.com/stdlib-js/stdlib/pull/13063) _(by Philipp Burckhardt, Athan Reines)_
